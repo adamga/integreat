@@ -35,7 +35,7 @@ rem restart IIS
 iisreset
 
 rem launch product site
-start iexplore.exe http://www.modernrequirements.com/
+start /MAX iexplore.exe http://www.modernrequirements.com/
 
 rem Clean up
 cd\
